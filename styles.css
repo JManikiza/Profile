@@ -120,7 +120,6 @@ header .profile-image:hover {
 .card-image:hover {
   transform: scale(1.1);
   transition-duration: 4s;
-  box-shadow: darkmagenta;
 }
 
 ul.skills {
